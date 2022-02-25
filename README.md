@@ -1,7 +1,7 @@
-## To initiate run
+## To initiate 
 
 ### `npm install`
 
-## To initiate run
+## To run
 
 ### `npm start`
